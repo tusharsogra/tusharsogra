@@ -12,7 +12,7 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=tusharsogra)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
